@@ -1,0 +1,86 @@
+# אפיקי בטון — Generative Engine Optimization Map
+
+> A concrete construction company specializing in concrete pouring and smoothing/polishing, along with all related operations in the field. The business operates in the construction and civil engineering sector, offering professional concrete work services.
+
+---
+
+## Pages
+
+### בית
+https://-a62ee85e.zappy5.app
+מחפשים עבודות בטון מקצועיות? אפיקי בטון מתמחים ביציקת בטון, החלקה וליטוש עם דגש על טפסות ליציקת בטון ופתרונות מתקדמים. לתכנון מושלם וביצוע ללא פשרות, צרו קשר עוד היום.
+
+### שירותים
+https://-a62ee85e.zappy5.app/services
+גלו את מגוון שירותי הבטון שלנו: טפסות לבניית בטון, הריסה כימית של בטון, יצירת אבני שפה ותעלות ניקוז, ועוד. כל מה שצריך במקום אחד, עם צוות שמבין לעומק את השטח. התקשרו לייעוץ חינם.
+
+### אודות
+https://-a62ee85e.zappy5.app/about
+אפיקי בטון היא הרבה מעבר לחברת בטון. אנו משלבים ניסיון עשיר, טכנולוגיות מתקדמות ואהבה אמיתית למלאכה, תוך התמקצעות בטפסות ליציקת בטון. בואו לקרוא איך אנחנו הופכים חזון למציאות יצוקה.
+
+### צור קשר
+https://-a62ee85e.zappy5.app/contact
+מוכנים להתחיל? בין אם אתם צריכים ייעוץ לגבי טפסות לבניית בטון, הצעת מחיר או תכנון פרויקט מורכב, הצוות של אפיקי בטון כאן בשבילכם. השאירו פרטים עכשיו ונתחיל לבנות את העתיד יחד.
+
+### תודה על פנייתך
+https://-a62ee85e.zappy5.app/thank-you
+אפיקי בטון - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://-a62ee85e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-a62ee85e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-a62ee85e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-a62ee85e.zappy5.app/contact
+- Endpoint: https://-a62ee85e.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אפיקי בטון
+A concrete construction company specializing in concrete pouring and smoothing/polishing, along with all related operations in the field. The business operates in the construction and civil engineering sector, offering professional concrete work services.
+
+## Services/Products
+- יציקות בטון
+- החלקות בטון
+
+## Target Audience
+- יזמי נדל"ן
+- חברות בנייה
+- קבלנים עירוניים
+
+## Industry
+Construction & Concrete Works
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-a62ee85e.zappy5.app/sitemap.xml
+- Robots: https://-a62ee85e.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-a62ee85e.zappy5.app/llms-full.txt
